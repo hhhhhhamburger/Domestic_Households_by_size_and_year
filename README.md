@@ -43,7 +43,3 @@ This repository contains a series of R scripts for data analysis, visualization,
 - Ensure your working directory is set to the folder containing these scripts.
 - The scripts may require specific data files to be present in the same directory. Please check the code in `01_install_and_read.R` for data file requirements.
 - All required R packages should be installed automatically by the scripts, but you may need internet access for the first run.
-
-## License
-
-This project is for educational purposes. 
