@@ -1,6 +1,6 @@
 # Analyzes data on Domestic Households by Household size and year.
 
-This repository contains a series of R scripts for data analysis, visualization, and statistical inference, likely as part of coursework for STAT S261F.
+This repository contains a series of R scripts for data analysis, visualization, and statistical inference.
 
 ## File Overview
 
